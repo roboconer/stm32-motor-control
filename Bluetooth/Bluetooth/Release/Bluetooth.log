@@ -1,0 +1,204 @@
+﻿  Bluetooth.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\bthsdpdef.h(19): error C3646: “LowPart”: 未知重写说明符
+c:\program files (x86)\windows kits\8.1\include\shared\bthsdpdef.h(19): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\8.1\include\shared\bthsdpdef.h(20): error C3646: “HighPart”: 未知重写说明符
+c:\program files (x86)\windows kits\8.1\include\shared\bthsdpdef.h(20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\8.1\include\shared\bthsdpdef.h(25): error C3646: “LowPart”: 未知重写说明符
+c:\program files (x86)\windows kits\8.1\include\shared\bthsdpdef.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\8.1\include\shared\bthsdpdef.h(26): error C3646: “HighPart”: 未知重写说明符
+c:\program files (x86)\windows kits\8.1\include\shared\bthsdpdef.h(26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\8.1\include\shared\bthsdpdef.h(39): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\8.1\include\shared\bthsdpdef.h(39): error C2146: 语法错误: 缺少“;”(在标识符“SDP_ERROR”的前面)
+c:\program files (x86)\windows kits\8.1\include\shared\bthsdpdef.h(94): error C3646: “uuid128”: 未知重写说明符
+c:\program files (x86)\windows kits\8.1\include\shared\bthsdpdef.h(94): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\8.1\include\shared\bthsdpdef.h(99): error C3646: “uuid32”: 未知重写说明符
+c:\program files (x86)\windows kits\8.1\include\shared\bthsdpdef.h(99): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): error C2065: “GUID_BTHPORT_DEVICE_INTERFACE”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(72): error C2065: “GUID_BTH_RFCOMM_SERVICE_DEVICE_INTERFACE”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(72): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(72): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(72): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(72): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(75): error C2065: “GUID_BLUETOOTH_RADIO_IN_RANGE”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(75): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(75): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(75): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(75): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(78): error C2065: “GUID_BLUETOOTH_RADIO_OUT_OF_RANGE”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(78): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(78): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(78): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(78): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(81): error C2065: “GUID_BLUETOOTH_L2CAP_EVENT”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(81): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(81): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(81): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(81): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(84): error C2065: “GUID_BLUETOOTH_HCI_EVENT”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(84): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(84): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(84): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(84): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(107): error C2065: “Bluetooth_Base_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(107): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(107): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(107): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(107): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(113): error C2065: “SDP_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(113): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(113): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(113): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(113): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(114): error C2065: “UDP_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(114): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(114): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(114): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(114): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(115): error C2065: “RFCOMM_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(115): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(115): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(115): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(115): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(116): error C2065: “TCP_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(116): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(116): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(116): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(116): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(117): error C2065: “TCSBIN_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(117): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(117): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(117): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(117): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(118): error C2065: “TCSAT_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(118): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(118): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(118): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(118): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(119): error C2065: “OBEX_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(119): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(119): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(119): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(119): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(120): error C2065: “IP_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(120): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(120): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(120): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(120): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(121): error C2065: “FTP_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(121): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(121): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(121): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(121): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(122): error C2065: “HTTP_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(122): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(122): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(122): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(122): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(123): error C2065: “WSP_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(123): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(123): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(123): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(123): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(124): error C2065: “BNEP_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(124): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(124): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(124): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(124): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(125): error C2065: “UPNP_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(125): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(125): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(125): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(125): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(126): error C2065: “HID_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(126): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(126): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(126): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(126): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(127): error C2065: “HCCC_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(127): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(127): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(127): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(127): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(128): error C2065: “HCDC_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(128): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(128): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(128): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(128): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(129): error C2065: “HN_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(129): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(129): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(129): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(129): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(130): error C2065: “AVCTP_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(130): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(130): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(130): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(130): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(131): error C2065: “AVDTP_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(131): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(131): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(131): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(131): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(132): error C2065: “CMPT_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(132): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(132): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(132): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(132): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(133): error C2065: “UDI_C_PLANE_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(133): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(133): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(133): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(133): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(134): error C2065: “L2CAP_PROTOCOL_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(134): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(134): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(134): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(134): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(159): error C2065: “ServiceDiscoveryServerServiceClassID_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(159): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(159): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(159): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(159): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(160): error C2065: “BrowseGroupDescriptorServiceClassID_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(160): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(160): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(160): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(160): note: 初始值设定项包含过多元素
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(161): error C2065: “PublicBrowseGroupServiceClass_UUID”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(161): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(161): error C2374: “DEFINE_GUID”: 重定义；多次初始化
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(68): note: 参见“DEFINE_GUID”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bthdef.h(161): fatal error C1003: 错误计数超过 100；正在停止编译
